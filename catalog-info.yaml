@@ -9,7 +9,7 @@ metadata:
       icon: github
       type: modern-app
 annotations:
-  backstage.io/techdocs-ref: dir:./docs/
+  backstage.io/techdocs-ref: dir:../docs/
 spec:
   type: service
   owner: user:guest
