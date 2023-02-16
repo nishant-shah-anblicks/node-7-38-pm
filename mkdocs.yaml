@@ -8,10 +8,10 @@ plugins:
 
 nav:
   - Overview:
-      - What is Backstage?: 'GettingStarted.md'
+      - What is Backstage?: 'roadmap.md'
       - Architecture overview: 'README.md'
       - Project Roadmap: 'README.md'
-      - Vision: 'GettingStarted.md'
+      - Vision: 'roadmap.md'
       - The Spotify Story: 'overview/background.md'
       - Strategies for adopting: 'overview/adopting.md'
       - Release & Versioning Policy: 'overview/versioning-policy.md'
