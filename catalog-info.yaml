@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "Node-7-38"
-  tags: ['nodejs', 'node']
+  tags: ['nodejs']
   links: 
     - url: https://github.com/nishant-shah-anblicks/node-template
       title: NodeJS
