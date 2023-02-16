@@ -2,6 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "Node-7-38"
+  links: 
+    - url: https://github.com/nishant-shah-anblicks/node-template
+      title: NodeJS
+      icon: github
+      type: modern-app
 spec:
   type: service
   owner: user:guest
