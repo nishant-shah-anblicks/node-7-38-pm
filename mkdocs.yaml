@@ -8,8 +8,8 @@ plugins:
 
 nav:
   - Overview:
-      - What is Backstage?: 'README.md'
-      - Architecture overview: 'overview/architecture-overview.md'
+      - What is Backstage?: './README.md'
+      - Architecture overview: './README.md'
       - Project Roadmap: 'overview/roadmap.md'
       - Vision: 'overview/vision.md'
       - The Spotify Story: 'overview/background.md'
