@@ -8,6 +8,8 @@ metadata:
       title: NodeJS
       icon: github
       type: modern-app
+annotations:
+  backstage.io/techdocs-ref: https://github.com/nishant-shah-anblicks/node-7-38-pm/tree/master/docs/README.md
 spec:
   type: service
   owner: user:guest
