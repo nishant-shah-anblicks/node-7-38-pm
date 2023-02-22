@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: snowflake-customer-ai
-  title: Snowflake - CustomerAI 
+  name: snowflake-customer-ai-new
+  title: Snowflake - CustomerAI New
   description: Its our product to optimize cloud spend in a multi-cloud, multi-vendor and multi-billing world
 #  labels:
 #    anblicks.com/user: user
