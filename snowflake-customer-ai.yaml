@@ -1,0 +1,46 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: snowflake-customer-ai
+  title: Snowflake - CustomerAI 
+  description: Its our product to optimize cloud spend in a multi-cloud, multi-vendor and multi-billing world
+#  labels:
+#    anblicks.com/user: user
+  annotations:
+    backstage.io/source-location: url:https://dev.azure.com/AnblicksDev/AnblicksInnovations/_git/customer-ai-snowflake
+#    github.com/team-slug: backstage/maintainers
+#    example.com/service-discovery: artistweb
+#    circleci.com/project-slug: github/example-org/artist-website
+#    periskop.io/service-name: pump-station
+#    backstage.io/code-coverage: scm-only
+#    deployments.anblicks.com/register-srv: "true"
+  tags:
+    - ai
+    - ml
+    - asset
+    - solution
+  links:
+    - url: https://dev.azure.com/AnblicksDev/AnblicksInnovations/_git/customer-ai-snowflake
+      title: Customer AI Snowflake
+      icon: dashboard
+      type: source
+    - url: https://dev.azure.com/AnblicksDev/AnblicksInnovations/_git/customer-ai-devops
+      title: Customer AI DevOps
+      icon: dashboard
+      type: source
+    - url: https://anblicks.sharepoint.com/:f:/s/Innovation_Group/Eu0DgHZle55FrGT9aROi-pIBZrij7VXlV9rwuGeIb1VNug?e=BsFKBW
+      title: Share Point
+      icon: dashboard
+      type: source
+    - url: https://anblicks.sharepoint.com/:w:/s/Innovation_Group/Eb2_5l1oEf9DoneBRlF3Ty4BCemLQf1_BIwIi9ldp5MXZA?e=hS0LGM
+      title: Technical Guides
+      icon: article
+      type: source  
+spec:
+  type: Reusable Component
+  lifecycle: production
+#  dependsOn: 
+#    - component:default/node-new
+  owner: geetanjali.dash@anblicks.com
+  system: Snowflake
+#  subcomponentOf: Node-7-38
